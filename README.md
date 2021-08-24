@@ -1,0 +1,2 @@
+# alistirma
+patika alistirmasi
